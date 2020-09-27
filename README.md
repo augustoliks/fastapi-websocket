@@ -2,7 +2,7 @@
 
 - __Data__: 27/09/2020
 - __Objetivo__: Multiplos WebSockets utilizando apenas uma porta do servidor web.
-- __Autor__: @augustoliks | <carlos.santos110@fatec.sp.gov.br>
+- __Autor__: [@augustoliks](https://github.com/augustoliks) | <carlos.santos110@fatec.sp.gov.br>
 
 Implementação envio de imagens do Backend para o Frontend, via WebSocket utilizando o micro-framework [Fast API](https://fastapi.tiangolo.com/).
 
